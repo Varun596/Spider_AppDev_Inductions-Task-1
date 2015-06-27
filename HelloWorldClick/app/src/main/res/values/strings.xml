@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorldClick</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">Display</string>
+    <string name="ButtonText">CLICK</string>
+    <string name="DisplayText">Hello World</string>
+</resources>
